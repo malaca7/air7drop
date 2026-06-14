@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /r/
+Disallow: /dashboard
+Disallow: /send
+Disallow: /history
+Disallow: /admin
