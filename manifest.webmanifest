@@ -1,6 +1,6 @@
 {
-  "name": "FlashDrop — Transferência P2P de arquivos",
-  "short_name": "FlashDrop",
+  "name": "Air7Drop — Transferência P2P de arquivos",
+  "short_name": "Air7Drop",
   "description": "Envie arquivos de qualquer tamanho entre dispositivos via QR Code, com transferência direta peer-to-peer.",
   "start_url": "/",
   "display": "standalone",
