@@ -1,0 +1,1 @@
+import{l as e,m as t}from"./use-auth-BjtC2vTR.js";import{n}from"./useStore-DxkGX7_m.js";var r=t(e(),1),i=r.createContext(void 0),a=r.createContext(void 0);function o(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{a as n,i as r,o as t};
